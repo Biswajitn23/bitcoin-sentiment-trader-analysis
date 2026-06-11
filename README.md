@@ -148,7 +148,6 @@ The analysis focuses on the following questions:
 ```text
 bitcoin-sentiment-trader-analysis
 │
-├── data
 ├── images
 │   ├── trade_count_by_sentiment.png
 │   ├── win_rate_by_sentiment.png
